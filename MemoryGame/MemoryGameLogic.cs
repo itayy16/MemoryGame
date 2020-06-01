@@ -95,7 +95,7 @@ namespace MemoryGame
         }
 
         // return the object MemoryBoard
-        internal Boardy GetBoard
+        internal Board GetBoard
         {
             get { return m_Board; }
             set { }
